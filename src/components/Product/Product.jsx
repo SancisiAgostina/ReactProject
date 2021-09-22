@@ -1,6 +1,6 @@
 import React from "react";
 import ProductImg from '../../assets/TartaFrutilla.jpeg';
-import './product.css';
+import './Product.css';
 
 /* //class component
 class Product extends React.Component {
